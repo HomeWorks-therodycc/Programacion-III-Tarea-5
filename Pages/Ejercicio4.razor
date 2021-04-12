@@ -1,0 +1,35 @@
+@page "/Ejercicio4"
+@using Tarea_V.Models;
+
+<div class="alert alert-info" role="alert">
+La cantidad de productos que existen por categoría. Nombre de categoría y cantidad de productos.
+</div>
+
+
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Categoria del producto</td>
+            <td>Cantidad de productos</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Prod in GetProducts())
+        {
+            <tr>
+                <td>@Prod.Key</td>
+                <td>@Prod.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code{
+        Dictionary<string, int> GetProducts() =>
+        new northwindContext().Products.ToList()
+        .GroupBy(Ctgr => Ctgr.Category)
+        .ToDictionary(Cntdd => Cntdd.Key, Cntdd => Cntdd.Count());
+}

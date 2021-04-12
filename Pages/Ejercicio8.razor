@@ -1,0 +1,39 @@
+@page "/Ejercicio8"
+@using Tarea_V.Models;
+@using Microsoft.EntityFrameworkCore;
+
+<div class="alert alert-info" role="alert">
+Mostrar los suplidores y la cantidad de productos que suplen. Mostrarlos de mayor a menor, mostrando el codigo de suplidor, nombre y cantidad de productos que este suple.
+</div>
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Id</td>
+            <td>Nombre suplidor</td>
+            <td>Apellido</td>
+            <td>Compañia</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Suppliers item in Suppliers())
+        {
+            
+        
+            <tr>
+                <th>@item.Id</th>
+                <th>@item.FirstName</th>
+                <th>@item.LastName</th>
+                <th>@item.Company</th>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code{
+
+  List<Suppliers> Suppliers() => new northwindContext().Suppliers.ToList();
+
+}

@@ -1,0 +1,49 @@
+@page "/Ejercicio6"
+@using Tarea_V.Models;
+@using Microsoft.EntityFrameworkCore;
+
+<div class="alert alert-info" role="alert">
+Los 10 clientes que mas han comprado, mostrando el codigo, nombre y monto total vendido. 
+</div>
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Id</td>
+            <td>Cliente</td>
+            <td>Cantidad de dinero en compras</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Custom())
+        {
+            
+        
+            <tr>
+                <th>@item.Codigo_Cliente</th>
+                <th>@item.Nombre</th>
+                <th>@item.Cantidad_Money</th>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code{
+    dynamic Custom() => new northwindContext().OrderDetails
+                            .Include(p => p.Order)
+                            .Include(c => c.Order.Customer)
+                            .AsEnumerable()
+                            .GroupBy(Ord => Ord.Order.CustomerId)
+                            .Select(Ord => new
+                            {
+                                Codigo_Cliente = Ord.Select(c => c.Order.Customer.Id).First(),
+                                Nombre = Ord.Select(c => $"{c.Order.Customer.FirstName} {c.Order.Customer.LastName}").First(),
+                                Cantidad_Money = Ord.Sum(Calc => Calc.Quantity * Calc.UnitPrice)
+                            })
+                            .OrderByDescending(od => od.Cantidad_Money)
+                            .Take(10);
+
+
+}

@@ -1,0 +1,38 @@
+@page "/Ejercicio3"
+@using Tarea_V.Models;
+
+
+
+<div class="alert alert-info" role="alert">
+    La cantidad de clientes que existen por pais.
+</div>
+<br />
+<br />
+
+
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Pais</td>
+            <td>Cantidad de clientes por pais</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Custom in GetCustomers())
+        {
+            <tr>
+                <td>@Custom.Key</td>
+                <td>@Custom.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code{
+    Dictionary<string, int> GetCustomers() => new northwindContext().Customers
+        .ToList().GroupBy(pais => pais.CountryRegion)
+        .ToDictionary(Cantidad => Cantidad.Key, Cantidad => Cantidad.Count());
+}

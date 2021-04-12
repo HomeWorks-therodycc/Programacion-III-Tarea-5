@@ -1,0 +1,33 @@
+@page "/Ejercicio2"
+@using Tarea_V.Models;
+<div class="alert alert-info" role="alert">
+ Los 5 productos mas caros. 
+</div>
+<br/>
+<br/>
+<table class="table ">
+    <thead  class="table-dark">
+        <tr>
+            <td>Producto</td>
+            <td>Precio</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Products Prod in GetProductos())
+        {
+            <tr>
+                <td>@Prod.ProductName</td>
+                <td>@Prod.StandardCost</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code{
+    List<Products> GetProductos() =>
+    new northwindContext().Products
+    .OrderByDescending(p => p.StandardCost)
+    .Take(5)
+    .ToList();
+}

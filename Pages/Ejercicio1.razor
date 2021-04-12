@@ -1,0 +1,35 @@
+@page "/Ejercicio1"
+@using Tarea_V.Models;
+
+<div class="alert alert-info" role="alert">
+Listado de los empleados, nombre, apellido y teléfono. 
+</div>
+<br/>
+<table class="table ">
+    <thead  class="table-dark">
+        <tr>
+            <td>Nombre</td>
+            <td>Apellido</td>
+            <td>Telefono</td>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (Employees Emp in GetEmployees())
+        {
+            <tr>
+                <td>@Emp.FirstName</td>
+                <td> @Emp.LastName</td>
+                <td> @Emp.FaxNumber</td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+
+@code{
+    List<Employees> GetEmployees() => new northwindContext().Employees.ToList();
+  
+}

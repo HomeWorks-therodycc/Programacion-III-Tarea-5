@@ -1,0 +1,40 @@
+@page "/Ejercicio7"
+@using Tarea_V.Models;
+
+<div class="alert alert-info" role="alert">
+El total de ventas vendidas en el mes de agosto del 2012
+</div>
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Total de ventas del mes de agosto</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (PurchaseOrders Ventss in Getventas())
+        {
+            @if (Ventss.SubmittedDate != Fecha)
+            {
+                <tr>
+                    <td>No hay ventas en el mes de agosto del 2012</td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <td>@Ventss.CreationDate</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+    
+
+
+@code{
+    DateTime Fecha = new DateTime(2012,8,1);
+    List<PurchaseOrders> Getventas() => new northwindContext().PurchaseOrders.ToList();
+}

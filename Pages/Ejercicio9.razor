@@ -1,0 +1,37 @@
+@page "/Ejercicio9"
+@using Tarea_V.Models;
+@using Microsoft.EntityFrameworkCore;
+
+
+<div class="alert alert-info" role="alert">
+Mostrar los transportistas y la cantidad de envios que han hecho.
+</div>
+
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Id</td>
+            <td>Codigo postal</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Shippers item in Shippers())
+        {
+            
+        
+            <tr>
+                <th>@item.Id</th>
+                <th>@item.ZipPostalCode</th>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@code{
+  List<Shippers> Shippers() => new northwindContext().Shippers.ToList();
+}

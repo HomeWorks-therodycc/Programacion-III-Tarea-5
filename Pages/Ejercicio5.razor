@@ -1,0 +1,35 @@
+@page "/Ejercicio5"
+@using Tarea_V.Models;
+@using Microsoft.EntityFrameworkCore;
+
+<div class="alert alert-info" role="alert">
+    Las unidades vendidas de cada producto, mostradas de mayor a menor: producto y cantidad de unidades vendidas.
+</div>
+
+
+<table class="table ">
+    <thead class="table-dark">
+        <tr>
+            <td>Producto</td>
+            <td>Cantidad vendidas</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Cprt in Getprodutos()) {
+            <tr>
+                <th>@Cprt.Name</th>
+                <th>@Cprt.CantP</th>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@code{
+        dynamic Getprodutos() => new northwindContext().PurchaseOrderDetails.
+        Include(p=> p.Product).
+        GroupBy(x => x.Product.ProductName).
+        Select(dato => new { Name = dato.Key, CantP = dato.Sum(x => x.Quantity)}).
+        OrderByDescending(x=> x.CantP);
+
+}

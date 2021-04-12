@@ -1,0 +1,178 @@
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\appsettings.json
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.StaticWebAssets.xml
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.exe
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.deps.json
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.runtimeconfig.json
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.runtimeconfig.dev.json
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ref\Tarea V.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.pdb
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.Views.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Tarea V.Views.pdb
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.csprojAssemblyReference.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.AssemblyInfoInputs.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.AssemblyInfo.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.csproj.CoreCompileInputs.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorComponent.input.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio1.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio10.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio2.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio3.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio4.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio5.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio6.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio7.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio8.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Ejercicio9.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorComponent.output.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\ref\Tarea V.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.pdb
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\RazorDeclaration\Tarea V.dll
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.TagHelpers.input.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.TagHelpers.output.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorCoreGenerate.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio1.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio10.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio2.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio3.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio4.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio5.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio6.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio7.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio8.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Ejercicio9.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorAssemblyInfo.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorAssemblyInfo.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\staticwebassets\Tarea V.StaticWebAssets.Manifest.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\staticwebassets\Tarea V.StaticWebAssets.xml
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\scopedcss\bundle\Tarea V.styles.css
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\scopedcss\projectbundle\Tarea V.bundle.scp.css
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorTargetAssemblyInfo.cache
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.RazorTargetAssemblyInfo.cs
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.Views.pdb
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.csproj.CopyComplete
+C:\Users\rrody\Documents\PROGRAMACION\Programacion III\Tarea 5\Tarea V\obj\Debug\net5.0\Tarea V.genruntimeconfig.cache
